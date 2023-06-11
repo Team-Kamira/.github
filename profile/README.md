@@ -7,4 +7,6 @@
   <br>
   <h1>Welcome to our vibrant indie development team's Patreon page!</h1>
   <p>We are a passionate group dedicated to creating exceptional digital experiences. Join us on this exciting journey, and let's create something truly remarkable together!</p>
+  <br>
+  <h1>Projects</h1>
 </div>
